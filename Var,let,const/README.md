@@ -1,4 +1,5 @@
 ### 1.VAR,LET
+>Scope
 ```
 let a = 'hello'; // globally scoped
 var b = 'world'; // globally scoped
